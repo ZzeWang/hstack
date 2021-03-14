@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.zzewang.hstack
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls

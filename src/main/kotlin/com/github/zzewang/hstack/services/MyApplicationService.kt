@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.zzewang.hstack.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.zzewang.hstack.MyBundle
 
 class MyApplicationService {
 
